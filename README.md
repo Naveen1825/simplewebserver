@@ -82,8 +82,9 @@ server_address =('',8000)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
+
 ## OUTPUT:
-![website](<Screenshot 2024-03-20 211741.png>)
+![312761989-d20e643c-69a4-4a8b-9eb8-fa303bb4f718](https://github.com/Naveen1825/simplewebserver/assets/138969868/bb5270a8-afc0-4fa1-8b28-88e689693be6)
 ![terminal](<Screenshot 2024-03-20 212826.png>)
 
 ## RESULT:
